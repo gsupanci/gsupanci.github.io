@@ -1,0 +1,1441 @@
+﻿State,Year,Month,Average Temperature
+Illinois,1820,January,-7.532
+Illinois,1820,December,-4.35
+Illinois,1820,February,-0.184
+Illinois,1820,March,2.742
+Illinois,1820,November,3.278
+Illinois,1820,October,10.762
+Illinois,1820,April,12.259
+Illinois,1820,May,16.205
+Illinois,1820,September,18.264
+Illinois,1820,August,21.52
+Illinois,1820,June,21.674
+Illinois,1820,July,22.861
+Illinois,1840,January,-5.676
+Illinois,1840,December,-1.377
+Illinois,1840,February,1.622
+Illinois,1840,November,3.769
+Illinois,1840,March,6.017
+Illinois,1840,October,10.72
+Illinois,1840,April,12.818
+Illinois,1840,September,16.496
+Illinois,1840,May,17.955
+Illinois,1840,August,22.355
+Illinois,1840,June,22.806
+Illinois,1840,July,23.374
+Illinois,1860,December,-3.627
+Illinois,1860,January,-2.84
+Illinois,1860,February,-0.311
+Illinois,1860,November,3.27
+Illinois,1860,March,6.837
+Illinois,1860,April,11.405
+Illinois,1860,October,12.177
+Illinois,1860,September,17.492
+Illinois,1860,May,18.777
+Illinois,1860,June,21.711
+Illinois,1860,August,22.788
+Illinois,1860,July,24.233
+Illinois,1880,December,-5.099
+Illinois,1880,November,-1.082
+Illinois,1880,February,1.58
+Illinois,1880,March,4.025
+Illinois,1880,January,4.706
+Illinois,1880,October,10.585
+Illinois,1880,April,11.455
+Illinois,1880,September,17.559
+Illinois,1880,May,19.84
+Illinois,1880,June,22.478
+Illinois,1880,August,23.839
+Illinois,1880,July,23.866
+Illinois,1900,February,-4.938
+Illinois,1900,January,-0.687
+Illinois,1900,December,-0.395
+Illinois,1900,March,1.486
+Illinois,1900,November,4.703
+Illinois,1900,April,11.386
+Illinois,1900,October,16.147
+Illinois,1900,May,17.737
+Illinois,1900,September,20.447
+Illinois,1900,June,21.312
+Illinois,1900,July,23.739
+Illinois,1900,August,26.149
+Illinois,1920,January,-6.077
+Illinois,1920,February,-1.882
+Illinois,1920,December,-0.039
+Illinois,1920,November,4.149
+Illinois,1920,March,5.146
+Illinois,1920,April,7.734
+Illinois,1920,October,15.271
+Illinois,1920,May,15.769
+Illinois,1920,September,20.394
+Illinois,1920,June,21.759
+Illinois,1920,August,21.946
+Illinois,1920,July,23.078
+Illinois,1940,January,-10.002
+Illinois,1940,February,-1.245
+Illinois,1940,December,1.486
+Illinois,1940,March,2.694
+Illinois,1940,November,3.97
+Illinois,1940,April,9.725
+Illinois,1940,October,14.846
+Illinois,1940,May,15.007
+Illinois,1940,September,18.771
+Illinois,1940,June,22.331
+Illinois,1940,August,23.438
+Illinois,1940,July,24.487
+Illinois,1960,March,-3.176
+Illinois,1960,December,-2.88
+Illinois,1960,February,-2.725
+Illinois,1960,January,-1.529
+Illinois,1960,November,6.261
+Illinois,1960,April,12.614
+Illinois,1960,October,13.03
+Illinois,1960,May,15.379
+Illinois,1960,June,20.963
+Illinois,1960,September,21.328
+Illinois,1960,July,23.071
+Illinois,1960,August,23.939
+Illinois,1980,February,-4.558
+Illinois,1980,January,-2.591
+Illinois,1980,December,-0.401
+Illinois,1980,March,2.51
+Illinois,1980,November,5.652
+Illinois,1980,April,10.311
+Illinois,1980,October,10.94
+Illinois,1980,May,17.616
+Illinois,1980,September,20.302
+Illinois,1980,June,21.665
+Illinois,1980,August,25.524
+Illinois,1980,July,26.357
+Illinois,2000,December,-7.593
+Illinois,2000,January,-2.35
+Illinois,2000,February,3.136
+Illinois,2000,November,4.301
+Illinois,2000,March,8.104
+Illinois,2000,April,11.032
+Illinois,2000,October,14.723
+Illinois,2000,May,18.72
+Illinois,2000,September,19.539
+Illinois,2000,June,21.704
+Illinois,2000,July,23.447
+Illinois,2000,August,24.232
+Indiana,1820,January,-6.449
+Indiana,1820,February,-3.58
+Indiana,1820,March,0.544
+Indiana,1820,April,3.089
+Indiana,1820,May,3.305
+Indiana,1820,June,10.382
+Indiana,1820,July,12.007
+Indiana,1820,August,16.054
+Indiana,1820,September,18.188
+Indiana,1820,October,21.502
+Indiana,1820,November,21.538
+Indiana,1820,December,23.076
+Indiana,1840,January,-5.136
+Indiana,1840,February,-1.345
+Indiana,1840,March,2.729
+Indiana,1840,April,4.178
+Indiana,1840,May,6.519
+Indiana,1840,June,11.114
+Indiana,1840,July,13.099
+Indiana,1840,August,16.556
+Indiana,1840,September,17.96
+Indiana,1840,October,22.453
+Indiana,1840,November,22.486
+Indiana,1840,December,23.461
+Indiana,1860,January,-3.198
+Indiana,1860,February,-2.044
+Indiana,1860,March,-0.263
+Indiana,1860,April,3.507
+Indiana,1860,May,6.286
+Indiana,1860,June,11.074
+Indiana,1860,July,12.025
+Indiana,1860,August,17.246
+Indiana,1860,September,18.486
+Indiana,1860,October,21.341
+Indiana,1860,November,22.528
+Indiana,1860,December,23.641
+Indiana,1880,January,-4.715
+Indiana,1880,February,-0.546
+Indiana,1880,March,2.374
+Indiana,1880,April,4.221
+Indiana,1880,May,5.305
+Indiana,1880,June,10.695
+Indiana,1880,July,11.469
+Indiana,1880,August,17.659
+Indiana,1880,September,19.637
+Indiana,1880,October,22.147
+Indiana,1880,November,23.303
+Indiana,1880,December,23.401
+Indiana,1900,January,-3.825
+Indiana,1900,February,-0.492
+Indiana,1900,March,-0.293
+Indiana,1900,April,1.232
+Indiana,1900,May,5.185
+Indiana,1900,June,10.782
+Indiana,1900,July,15.986
+Indiana,1900,August,17.711
+Indiana,1900,September,20.783
+Indiana,1900,October,21.203
+Indiana,1900,November,23.606
+Indiana,1900,December,25.482
+Indiana,1920,January,-5.822
+Indiana,1920,February,-2.121
+Indiana,1920,March,0.261
+Indiana,1920,April,4.548
+Indiana,1920,May,5.204
+Indiana,1920,June,7.711
+Indiana,1920,July,15.068
+Indiana,1920,August,15.483
+Indiana,1920,September,19.961
+Indiana,1920,October,21.24
+Indiana,1920,November,21.552
+Indiana,1920,December,22.358
+Indiana,1940,January,-9.315
+Indiana,1940,February,-0.92
+Indiana,1940,March,2.268
+Indiana,1940,April,2.498
+Indiana,1940,May,4.396
+Indiana,1940,June,8.94
+Indiana,1940,July,14.108
+Indiana,1940,August,14.655
+Indiana,1940,September,18.012
+Indiana,1940,October,21.999
+Indiana,1940,November,23.646
+Indiana,1940,December,24.009
+Indiana,1960,January,-3.352
+Indiana,1960,February,-2.885
+Indiana,1960,March,-1.857
+Indiana,1960,April,-0.637
+Indiana,1960,May,6.407
+Indiana,1960,June,12.75
+Indiana,1960,July,12.837
+Indiana,1960,August,15.226
+Indiana,1960,September,20.79
+Indiana,1960,October,21.143
+Indiana,1960,November,22.657
+Indiana,1960,December,23.622
+Indiana,1980,January,-4.447
+Indiana,1980,February,-2.021
+Indiana,1980,March,-0.13
+Indiana,1980,April,2.332
+Indiana,1980,May,5.1
+Indiana,1980,June,9.637
+Indiana,1980,July,10.695
+Indiana,1980,August,17.315
+Indiana,1980,September,20.182
+Indiana,1980,October,20.861
+Indiana,1980,November,25.03
+Indiana,1980,December,25.51
+Indiana,2000,January,-6.72
+Indiana,2000,February,-2.633
+Indiana,2000,March,2.857
+Indiana,2000,April,5.066
+Indiana,2000,May,7.909
+Indiana,2000,June,10.645
+Indiana,2000,July,14.458
+Indiana,2000,August,18.579
+Indiana,2000,September,18.771
+Indiana,2000,October,22.072
+Indiana,2000,November,22.947
+Indiana,2000,December,23.04
+Iowa,1820,January,-12.314
+Iowa,1820,December,-8.485
+Iowa,1820,February,-4.389
+Iowa,1820,March,-0.732
+Iowa,1820,November,0.696
+Iowa,1820,October,9.241
+Iowa,1820,April,10.525
+Iowa,1820,May,14.956
+Iowa,1820,September,16.624
+Iowa,1820,August,19.906
+Iowa,1820,June,20.772
+Iowa,1820,July,21.225
+Iowa,1840,January,-8.804
+Iowa,1840,December,-4.49
+Iowa,1840,February,-3.134
+Iowa,1840,November,1.011
+Iowa,1840,March,2.483
+Iowa,1840,October,8.257
+Iowa,1840,April,9.814
+Iowa,1840,September,14.941
+Iowa,1840,May,16.946
+Iowa,1840,August,20.659
+Iowa,1840,June,21.789
+Iowa,1840,July,22.483
+Iowa,1860,January,-6.837
+Iowa,1860,December,-6.708
+Iowa,1860,February,-4
+Iowa,1860,November,0.768
+Iowa,1860,March,4.806
+Iowa,1860,April,9.224
+Iowa,1860,October,10.268
+Iowa,1860,September,15.736
+Iowa,1860,May,17.348
+Iowa,1860,August,20.967
+Iowa,1860,June,20.983
+Iowa,1860,July,23.257
+Iowa,1880,December,-8.996
+Iowa,1880,November,-3.815
+Iowa,1880,February,-2.601
+Iowa,1880,January,-0.311
+Iowa,1880,March,0.772
+Iowa,1880,October,8.687
+Iowa,1880,April,9.003
+Iowa,1880,September,16.268
+Iowa,1880,May,19.241
+Iowa,1880,June,21.487
+Iowa,1880,August,22.674
+Iowa,1880,July,23.198
+Iowa,1900,February,-9.72
+Iowa,1900,January,-3.873
+Iowa,1900,December,-3.232
+Iowa,1900,March,-0.923
+Iowa,1900,November,0.547
+Iowa,1900,April,10.92
+Iowa,1900,October,14.728
+Iowa,1900,May,17.268
+Iowa,1900,September,17.799
+Iowa,1900,June,20.693
+Iowa,1900,July,22.717
+Iowa,1900,August,24.946
+Iowa,1920,January,-9.052
+Iowa,1920,February,-4.894
+Iowa,1920,December,-3.628
+Iowa,1920,November,1.437
+Iowa,1920,March,2.887
+Iowa,1920,April,5.316
+Iowa,1920,October,13.877
+Iowa,1920,May,14.935
+Iowa,1920,September,18.875
+Iowa,1920,August,20.517
+Iowa,1920,June,21.207
+Iowa,1920,July,22.183
+Iowa,1940,January,-13.568
+Iowa,1940,February,-4.764
+Iowa,1940,December,-2.564
+Iowa,1940,March,-0.587
+Iowa,1940,November,0.431
+Iowa,1940,April,8.107
+Iowa,1940,October,13.87
+Iowa,1940,May,14.42
+Iowa,1940,September,18.62
+Iowa,1940,August,21.285
+Iowa,1940,June,21.583
+Iowa,1940,July,24.676
+Iowa,1960,February,-6.757
+Iowa,1960,January,-6.642
+Iowa,1960,March,-6.181
+Iowa,1960,December,-4.702
+Iowa,1960,November,4.201
+Iowa,1960,April,10.266
+Iowa,1960,October,11.33
+Iowa,1960,May,15.277
+Iowa,1960,September,18.603
+Iowa,1960,June,19.641
+Iowa,1960,July,22.6
+Iowa,1960,August,22.927
+Iowa,1980,February,-6.795
+Iowa,1980,January,-5.964
+Iowa,1980,December,-3.819
+Iowa,1980,March,0.32
+Iowa,1980,November,4.309
+Iowa,1980,October,9.28
+Iowa,1980,April,10.023
+Iowa,1980,May,16.772
+Iowa,1980,September,18.569
+Iowa,1980,June,21.39
+Iowa,1980,August,23.583
+Iowa,1980,July,25.393
+Iowa,2000,December,-11.615
+Iowa,2000,January,-5.23
+Iowa,2000,November,0.542
+Iowa,2000,February,0.695
+Iowa,2000,March,6.494
+Iowa,2000,April,10.024
+Iowa,2000,October,13.043
+Iowa,2000,May,17.812
+Iowa,2000,September,18.73
+Iowa,2000,June,20.592
+Iowa,2000,July,23.138
+Iowa,2000,August,23.491
+Kansas,1820,January,-5.802
+Kansas,1820,December,-3.146
+Kansas,1820,February,0.562
+Kansas,1820,November,4.14
+Kansas,1820,March,4.22
+Kansas,1820,October,11.864
+Kansas,1820,April,13.115
+Kansas,1820,May,17.3
+Kansas,1820,September,19.353
+Kansas,1820,June,22.709
+Kansas,1820,August,22.787
+Kansas,1820,July,23.869
+Kansas,1840,January,-2.813
+Kansas,1840,December,0.314
+Kansas,1840,February,1.599
+Kansas,1840,November,3.672
+Kansas,1840,March,6.311
+Kansas,1840,October,11.27
+Kansas,1840,April,12.224
+Kansas,1840,May,17.402
+Kansas,1840,September,17.877
+Kansas,1840,June,23.167
+Kansas,1840,August,23.657
+Kansas,1840,July,24.947
+Kansas,1860,January,-1.816
+Kansas,1860,December,-0.83
+Kansas,1860,February,0.848
+Kansas,1860,November,4.676
+Kansas,1860,March,8.296
+Kansas,1860,April,12.586
+Kansas,1860,October,13.494
+Kansas,1860,May,19.121
+Kansas,1860,September,20.725
+Kansas,1860,June,23.992
+Kansas,1860,August,24.977
+Kansas,1860,July,27.179
+Kansas,1880,December,-3.893
+Kansas,1880,November,-0.662
+Kansas,1880,February,1.876
+Kansas,1880,January,3.295
+Kansas,1880,March,4.674
+Kansas,1880,October,11.343
+Kansas,1880,April,12.623
+Kansas,1880,September,18.904
+Kansas,1880,May,20.494
+Kansas,1880,June,23.367
+Kansas,1880,August,24.431
+Kansas,1880,July,24.75
+Kansas,1900,February,-2.434
+Kansas,1900,December,1.229
+Kansas,1900,January,1.433
+Kansas,1900,November,5.047
+Kansas,1900,March,5.441
+Kansas,1900,April,12.311
+Kansas,1900,October,15.609
+Kansas,1900,May,18.128
+Kansas,1900,September,20.847
+Kansas,1900,June,23.542
+Kansas,1900,July,25.293
+Kansas,1900,August,26.73
+Kansas,1920,January,-0.61
+Kansas,1920,December,0.544
+Kansas,1920,February,1.662
+Kansas,1920,November,3.91
+Kansas,1920,March,6.851
+Kansas,1920,April,8.653
+Kansas,1920,October,15.142
+Kansas,1920,May,16.848
+Kansas,1920,September,20.409
+Kansas,1920,August,22.329
+Kansas,1920,June,22.333
+Kansas,1920,July,25.078
+Kansas,1940,January,-9.797
+Kansas,1940,February,0.409
+Kansas,1940,December,1.815
+Kansas,1940,November,4.085
+Kansas,1940,March,6.51
+Kansas,1940,April,11.674
+Kansas,1940,October,16.774
+Kansas,1940,May,17.311
+Kansas,1940,September,20.991
+Kansas,1940,June,23.138
+Kansas,1940,August,24.194
+Kansas,1940,July,27.309
+Kansas,1960,February,-3.394
+Kansas,1960,January,-2.405
+Kansas,1960,December,-0.238
+Kansas,1960,March,0.084
+Kansas,1960,November,6.735
+Kansas,1960,April,13.747
+Kansas,1960,October,14.635
+Kansas,1960,May,17.056
+Kansas,1960,September,21.424
+Kansas,1960,June,22.598
+Kansas,1960,July,24.72
+Kansas,1960,August,25.525
+Kansas,1980,January,-1.507
+Kansas,1980,February,-1.385
+Kansas,1980,December,2.279
+Kansas,1980,March,4.156
+Kansas,1980,November,7.2
+Kansas,1980,April,11.429
+Kansas,1980,October,13.258
+Kansas,1980,May,17.219
+Kansas,1980,September,21.9
+Kansas,1980,June,25.044
+Kansas,1980,August,27.296
+Kansas,1980,July,29.848
+Kansas,2000,December,-4.235
+Kansas,2000,January,0.845
+Kansas,2000,November,2.87
+Kansas,2000,February,5.084
+Kansas,2000,March,8.109
+Kansas,2000,April,12.266
+Kansas,2000,October,15.305
+Kansas,2000,May,19.577
+Kansas,2000,September,22.227
+Kansas,2000,June,22.75
+Kansas,2000,July,26.609
+Kansas,2000,August,28.716
+Michigan,1820,January,-10.946
+Michigan,1820,December,-7.517
+Michigan,1820,February,-4.903
+Michigan,1820,March,-3.29
+Michigan,1820,November,-0.143
+Michigan,1820,April,6.641
+Michigan,1820,October,6.938
+Michigan,1820,May,11.162
+Michigan,1820,September,14.627
+Michigan,1820,June,17.403
+Michigan,1820,August,17.819
+Michigan,1820,July,19.346
+Michigan,1840,January,-8.641
+Michigan,1840,December,-4.985
+Michigan,1840,February,-3.28
+Michigan,1840,March,-0.025
+Michigan,1840,November,1.435
+Michigan,1840,April,6.623
+Michigan,1840,October,7.008
+Michigan,1840,September,12.804
+Michigan,1840,May,13.587
+Michigan,1840,June,17.683
+Michigan,1840,August,18.272
+Michigan,1840,July,20.038
+Michigan,1860,December,-6.264
+Michigan,1860,January,-6.145
+Michigan,1860,February,-6.128
+Michigan,1860,November,0.972
+Michigan,1860,March,0.984
+Michigan,1860,April,4.264
+Michigan,1860,October,8.05
+Michigan,1860,September,12.874
+Michigan,1860,May,13.245
+Michigan,1860,June,16.973
+Michigan,1860,August,17.745
+Michigan,1860,July,18.41
+Michigan,1880,December,-7.505
+Michigan,1880,February,-3.977
+Michigan,1880,November,-3.047
+Michigan,1880,March,-2.371
+Michigan,1880,January,-0.848
+Michigan,1880,April,5.216
+Michigan,1880,October,7.29
+Michigan,1880,September,14.453
+Michigan,1880,May,15.025
+Michigan,1880,June,18.121
+Michigan,1880,August,18.877
+Michigan,1880,July,19.617
+Michigan,1900,February,-9.321
+Michigan,1900,March,-5.462
+Michigan,1900,January,-4.566
+Michigan,1900,December,-3.475
+Michigan,1900,November,1.21
+Michigan,1900,April,7.084
+Michigan,1900,May,12.826
+Michigan,1900,October,13.16
+Michigan,1900,September,16.666
+Michigan,1900,June,16.841
+Michigan,1900,July,19.178
+Michigan,1900,August,22.029
+Michigan,1920,January,-11.786
+Michigan,1920,February,-8.625
+Michigan,1920,December,-1.897
+Michigan,1920,March,-0.648
+Michigan,1920,November,1.619
+Michigan,1920,April,2.568
+Michigan,1920,May,10.931
+Michigan,1920,October,12.712
+Michigan,1920,September,16.576
+Michigan,1920,June,17.733
+Michigan,1920,July,18.169
+Michigan,1920,August,18.628
+Michigan,1940,January,-8.881
+Michigan,1940,February,-5.224
+Michigan,1940,March,-4.33
+Michigan,1940,December,-2.633
+Michigan,1940,November,1.237
+Michigan,1940,April,3.571
+Michigan,1940,October,9.229
+Michigan,1940,May,10.637
+Michigan,1940,September,15.355
+Michigan,1940,June,16.971
+Michigan,1940,August,19.136
+Michigan,1940,July,20.449
+Michigan,1960,March,-6.03
+Michigan,1960,December,-5.994
+Michigan,1960,February,-5.422
+Michigan,1960,January,-4.925
+Michigan,1960,November,4.205
+Michigan,1960,April,6.738
+Michigan,1960,October,9.18
+Michigan,1960,May,11.988
+Michigan,1960,June,16.241
+Michigan,1960,September,16.309
+Michigan,1960,July,18.93
+Michigan,1960,August,19.636
+Michigan,1980,February,-7.66
+Michigan,1980,January,-6.204
+Michigan,1980,December,-5.882
+Michigan,1980,March,-2.706
+Michigan,1980,November,2.057
+Michigan,1980,April,5.977
+Michigan,1980,October,6.501
+Michigan,1980,May,13.487
+Michigan,1980,September,15.047
+Michigan,1980,June,15.717
+Michigan,1980,July,20.427
+Michigan,1980,August,20.609
+Michigan,2000,December,-8.259
+Michigan,2000,January,-6.478
+Michigan,2000,February,-2.604
+Michigan,2000,November,3.013
+Michigan,2000,March,3.975
+Michigan,2000,April,5.84
+Michigan,2000,October,10.781
+Michigan,2000,May,13.768
+Michigan,2000,September,14.998
+Michigan,2000,June,17.478
+Michigan,2000,July,19.131
+Michigan,2000,August,19.315
+Minnesota,1820,January,-18.417
+Minnesota,1820,December,-13.948
+Minnesota,1820,February,-10.468
+Minnesota,1820,March,-6.25
+Minnesota,1820,November,-3.579
+Minnesota,1820,October,5.755
+Minnesota,1820,April,6.5
+Minnesota,1820,May,11.547
+Minnesota,1820,September,13.32
+Minnesota,1820,August,16.681
+Minnesota,1820,June,17.754
+Minnesota,1820,July,18.066
+Minnesota,1840,January,-13.22
+Minnesota,1840,February,-10.154
+Minnesota,1840,December,-9.648
+Minnesota,1840,March,-3.278
+Minnesota,1840,November,-2.824
+Minnesota,1840,October,4.054
+Minnesota,1840,April,4.796
+Minnesota,1840,September,12.325
+Minnesota,1840,May,13.815
+Minnesota,1840,August,17.128
+Minnesota,1840,June,18.277
+Minnesota,1840,July,20.546
+Minnesota,1860,January,-12.715
+Minnesota,1860,December,-11.872
+Minnesota,1860,February,-10.56
+Minnesota,1860,November,-3.434
+Minnesota,1860,March,-0.718
+Minnesota,1860,April,4.156
+Minnesota,1860,October,6.233
+Minnesota,1860,September,11.444
+Minnesota,1860,May,13.132
+Minnesota,1860,August,16.832
+Minnesota,1860,June,17.222
+Minnesota,1860,July,19.046
+Minnesota,1880,December,-14.443
+Minnesota,1880,February,-10.737
+Minnesota,1880,January,-8.758
+Minnesota,1880,November,-7.871
+Minnesota,1880,March,-6.223
+Minnesota,1880,April,3.471
+Minnesota,1880,October,5.299
+Minnesota,1880,September,12.911
+Minnesota,1880,May,14.709
+Minnesota,1880,June,18.038
+Minnesota,1880,August,18.787
+Minnesota,1880,July,20.111
+Minnesota,1900,February,-15.872
+Minnesota,1900,January,-9.022
+Minnesota,1900,December,-8.528
+Minnesota,1900,March,-6.06
+Minnesota,1900,November,-4.467
+Minnesota,1900,April,8.755
+Minnesota,1900,October,11.55
+Minnesota,1900,September,14.2
+Minnesota,1900,May,14.255
+Minnesota,1900,June,18.418
+Minnesota,1900,July,19.356
+Minnesota,1900,August,22.282
+Minnesota,1920,January,-16.074
+Minnesota,1920,February,-10.976
+Minnesota,1920,December,-7.689
+Minnesota,1920,March,-3.04
+Minnesota,1920,November,-1.781
+Minnesota,1920,April,1.08
+Minnesota,1920,October,10.81
+Minnesota,1920,May,12.45
+Minnesota,1920,September,16.184
+Minnesota,1920,June,17.632
+Minnesota,1920,August,18.941
+Minnesota,1920,July,19.404
+Minnesota,1940,January,-15.43
+Minnesota,1940,February,-8.646
+Minnesota,1940,December,-7.71
+Minnesota,1940,March,-6.274
+Minnesota,1940,November,-3.94
+Minnesota,1940,April,3.939
+Minnesota,1940,October,10.036
+Minnesota,1940,May,11.625
+Minnesota,1940,September,16.429
+Minnesota,1940,June,17.265
+Minnesota,1940,August,18.645
+Minnesota,1940,July,21.42
+Minnesota,1960,January,-11.78
+Minnesota,1960,December,-10.559
+Minnesota,1960,February,-10.275
+Minnesota,1960,March,-8.442
+Minnesota,1960,November,-0.055
+Minnesota,1960,April,5.24
+Minnesota,1960,October,8.214
+Minnesota,1960,May,12.474
+Minnesota,1960,September,15.013
+Minnesota,1960,June,16.556
+Minnesota,1960,July,20.565
+Minnesota,1960,August,20.568
+Minnesota,1980,January,-12.375
+Minnesota,1980,February,-11.279
+Minnesota,1980,December,-9.948
+Minnesota,1980,March,-5.47
+Minnesota,1980,November,0.551
+Minnesota,1980,October,5.613
+Minnesota,1980,April,7.895
+Minnesota,1980,September,13.726
+Minnesota,1980,May,15.137
+Minnesota,1980,June,17.97
+Minnesota,1980,August,19.295
+Minnesota,1980,July,21.414
+Minnesota,2000,December,-15.975
+Minnesota,2000,January,-11.688
+Minnesota,2000,February,-4.87
+Minnesota,2000,November,-1.742
+Minnesota,2000,March,2.556
+Minnesota,2000,April,5.698
+Minnesota,2000,October,9.108
+Minnesota,2000,May,13.952
+Minnesota,2000,September,14.078
+Minnesota,2000,June,16.681
+Minnesota,2000,August,20.133
+Minnesota,2000,July,20.592
+Missouri,1820,January,-5.56
+Missouri,1820,December,-2.49
+Missouri,1820,February,1.382
+Missouri,1820,November,4.776
+Missouri,1820,March,4.812
+Missouri,1820,October,11.995
+Missouri,1820,April,13.897
+Missouri,1820,May,17.523
+Missouri,1820,September,19.242
+Missouri,1820,August,22.481
+Missouri,1820,June,22.523
+Missouri,1820,July,23.575
+Missouri,1840,January,-3.594
+Missouri,1840,December,0.76
+Missouri,1840,February,3.039
+Missouri,1840,November,4.636
+Missouri,1840,March,7.669
+Missouri,1840,October,11.784
+Missouri,1840,April,14.075
+Missouri,1840,September,17.486
+Missouri,1840,May,18.309
+Missouri,1840,August,23.298
+Missouri,1840,June,23.352
+Missouri,1840,July,24.015
+Missouri,1860,December,-1.111
+Missouri,1860,January,-0.857
+Missouri,1860,February,1.768
+Missouri,1860,November,4.921
+Missouri,1860,March,8.777
+Missouri,1860,October,13.629
+Missouri,1860,April,13.721
+Missouri,1860,September,19.619
+Missouri,1860,May,20.105
+Missouri,1860,June,23.382
+Missouri,1860,August,24.584
+Missouri,1860,July,26.34
+Missouri,1880,December,-2.98
+Missouri,1880,November,0.083
+Missouri,1880,February,3.246
+Missouri,1880,March,5.946
+Missouri,1880,January,6.097
+Missouri,1880,October,11.804
+Missouri,1880,April,13.407
+Missouri,1880,September,18.333
+Missouri,1880,May,20.868
+Missouri,1880,June,22.844
+Missouri,1880,July,24.43
+Missouri,1880,August,24.452
+Missouri,1900,February,-3.265
+Missouri,1900,January,1.106
+Missouri,1900,December,1.571
+Missouri,1900,March,4.706
+Missouri,1900,November,6.148
+Missouri,1900,April,13.261
+Missouri,1900,October,16.32
+Missouri,1900,May,18.675
+Missouri,1900,September,21.536
+Missouri,1900,June,22.502
+Missouri,1900,July,24.601
+Missouri,1900,August,26.56
+Missouri,1920,January,-2.352
+Missouri,1920,February,1.152
+Missouri,1920,December,1.68
+Missouri,1920,November,4.805
+Missouri,1920,March,6.898
+Missouri,1920,April,9.732
+Missouri,1920,October,15.636
+Missouri,1920,May,17.37
+Missouri,1920,September,20.837
+Missouri,1920,June,22.205
+Missouri,1920,August,22.491
+Missouri,1920,July,24.327
+Missouri,1940,January,-9.761
+Missouri,1940,February,0.165
+Missouri,1940,December,2.942
+Missouri,1940,November,5.078
+Missouri,1940,March,5.611
+Missouri,1940,April,11.658
+Missouri,1940,October,16.524
+Missouri,1940,May,16.636
+Missouri,1940,September,19.965
+Missouri,1940,June,22.744
+Missouri,1940,August,23.774
+Missouri,1940,July,25.199
+Missouri,1960,February,-1.409
+Missouri,1960,March,-1.15
+Missouri,1960,December,-0.621
+Missouri,1960,January,-0.366
+Missouri,1960,November,7.67
+Missouri,1960,April,13.974
+Missouri,1960,October,14.704
+Missouri,1960,May,16.984
+Missouri,1960,September,22.133
+Missouri,1960,June,22.344
+Missouri,1960,July,24.054
+Missouri,1960,August,25.138
+Missouri,1980,February,-2.125
+Missouri,1980,January,-0.474
+Missouri,1980,December,1.529
+Missouri,1980,March,4.597
+Missouri,1980,November,7.093
+Missouri,1980,April,12.221
+Missouri,1980,October,12.617
+Missouri,1980,May,18.355
+Missouri,1980,September,22.036
+Missouri,1980,June,23.879
+Missouri,1980,August,27.492
+Missouri,1980,July,29.099
+Missouri,2000,December,-5.89
+Missouri,2000,January,0.568
+Missouri,2000,November,4.634
+Missouri,2000,February,5.576
+Missouri,2000,March,9.253
+Missouri,2000,April,12.636
+Missouri,2000,October,15.925
+Missouri,2000,May,20.068
+Missouri,2000,September,21.164
+Missouri,2000,June,22.348
+Missouri,2000,July,25.083
+Missouri,2000,August,26.996
+Nebraska,1820,January,-9.817
+Nebraska,1820,December,-6.92
+Nebraska,1820,February,-3.348
+Nebraska,1820,March,0.139
+Nebraska,1820,November,0.77
+Nebraska,1820,October,8.753
+Nebraska,1820,April,9.897
+Nebraska,1820,May,14.41
+Nebraska,1820,September,16.389
+Nebraska,1820,August,20.07
+Nebraska,1820,June,20.237
+Nebraska,1820,July,21.239
+Nebraska,1840,January,-5.841
+Nebraska,1840,December,-3.145
+Nebraska,1840,February,-2.775
+Nebraska,1840,November,0.606
+Nebraska,1840,March,2.255
+Nebraska,1840,October,7.651
+Nebraska,1840,April,8.486
+Nebraska,1840,September,15.137
+Nebraska,1840,May,15.162
+Nebraska,1840,June,20.789
+Nebraska,1840,August,20.838
+Nebraska,1840,July,22.986
+Nebraska,1860,January,-5.393
+Nebraska,1860,December,-4.374
+Nebraska,1860,February,-2.917
+Nebraska,1860,November,1.212
+Nebraska,1860,March,4.858
+Nebraska,1860,April,8.693
+Nebraska,1860,October,10.262
+Nebraska,1860,May,15.713
+Nebraska,1860,September,16.701
+Nebraska,1860,June,20.735
+Nebraska,1860,August,21.872
+Nebraska,1860,July,23.879
+Nebraska,1880,December,-8.302
+Nebraska,1880,November,-4.68
+Nebraska,1880,February,-2.432
+Nebraska,1880,January,-0.977
+Nebraska,1880,March,0.108
+Nebraska,1880,October,8.158
+Nebraska,1880,April,8.419
+Nebraska,1880,September,16.289
+Nebraska,1880,May,17.746
+Nebraska,1880,June,20.73
+Nebraska,1880,August,22.48
+Nebraska,1880,July,23.059
+Nebraska,1900,February,-6.595
+Nebraska,1900,January,-1.605
+Nebraska,1900,December,-0.71
+Nebraska,1900,November,1.34
+Nebraska,1900,March,1.938
+Nebraska,1900,April,10.142
+Nebraska,1900,October,12.513
+Nebraska,1900,May,17.019
+Nebraska,1900,September,17.297
+Nebraska,1900,June,21.817
+Nebraska,1900,July,23.022
+Nebraska,1900,August,24.512
+Nebraska,1920,January,-3.491
+Nebraska,1920,December,-3.438
+Nebraska,1920,February,-2.18
+Nebraska,1920,November,0.822
+Nebraska,1920,March,2.596
+Nebraska,1920,April,3.959
+Nebraska,1920,October,12.256
+Nebraska,1920,May,13.938
+Nebraska,1920,September,17.777
+Nebraska,1920,June,19.818
+Nebraska,1920,August,20.554
+Nebraska,1920,July,22.936
+Nebraska,1940,January,-11.871
+Nebraska,1940,February,-2.842
+Nebraska,1940,December,-1.707
+Nebraska,1940,November,0.23
+Nebraska,1940,March,2.482
+Nebraska,1940,April,8.172
+Nebraska,1940,October,13.767
+Nebraska,1940,May,14.932
+Nebraska,1940,September,19.961
+Nebraska,1940,June,21.444
+Nebraska,1940,August,22.245
+Nebraska,1940,July,25.942
+Nebraska,1960,February,-7.229
+Nebraska,1960,January,-6.461
+Nebraska,1960,December,-3.125
+Nebraska,1960,March,-3.03
+Nebraska,1960,November,3.56
+Nebraska,1960,April,9.868
+Nebraska,1960,October,11.528
+Nebraska,1960,May,14.597
+Nebraska,1960,September,18.362
+Nebraska,1960,June,19.534
+Nebraska,1960,August,23.026
+Nebraska,1960,July,23.347
+Nebraska,1980,January,-5.247
+Nebraska,1980,February,-3.949
+Nebraska,1980,December,-0.715
+Nebraska,1980,March,0.715
+Nebraska,1980,November,4.593
+Nebraska,1980,April,9.47
+Nebraska,1980,October,10.006
+Nebraska,1980,May,15.185
+Nebraska,1980,September,18.578
+Nebraska,1980,June,21.907
+Nebraska,1980,August,23.456
+Nebraska,1980,July,25.918
+Nebraska,2000,December,-7.44
+Nebraska,2000,January,-2.024
+Nebraska,2000,November,-1.85
+Nebraska,2000,February,1.719
+Nebraska,2000,March,5.687
+Nebraska,2000,April,9.417
+Nebraska,2000,October,11.72
+Nebraska,2000,May,16.827
+Nebraska,2000,September,18.571
+Nebraska,2000,June,20.207
+Nebraska,2000,July,24.476
+Nebraska,2000,August,25.026
+North Dakota,1820,January,-18.189
+North Dakota,1820,December,-13.907
+North Dakota,1820,February,-11.683
+North Dakota,1820,March,-6.287
+North Dakota,1820,November,-4.359
+North Dakota,1820,October,4.851
+North Dakota,1820,April,6.029
+North Dakota,1820,May,11.59
+North Dakota,1820,September,13.007
+North Dakota,1820,August,16.824
+North Dakota,1820,June,17.411
+North Dakota,1820,July,18.128
+North Dakota,1840,January,-12.679
+North Dakota,1840,February,-12.17
+North Dakota,1840,December,-10.205
+North Dakota,1840,March,-4.446
+North Dakota,1840,November,-3.84
+North Dakota,1840,October,3.292
+North Dakota,1840,April,3.793
+North Dakota,1840,September,12.442
+North Dakota,1840,May,12.644
+North Dakota,1840,August,17.249
+North Dakota,1840,June,17.645
+North Dakota,1840,July,20.972
+North Dakota,1860,January,-13.533
+North Dakota,1860,December,-11.534
+North Dakota,1860,February,-11.105
+North Dakota,1860,November,-3.845
+North Dakota,1860,March,-1.768
+North Dakota,1860,April,3.931
+North Dakota,1860,October,5.906
+North Dakota,1860,May,11.933
+North Dakota,1860,September,12.032
+North Dakota,1860,June,17.119
+North Dakota,1860,August,18.008
+North Dakota,1860,July,19.666
+North Dakota,1880,December,-16.584
+North Dakota,1880,February,-11.166
+North Dakota,1880,January,-11.061
+North Dakota,1880,November,-8.144
+North Dakota,1880,March,-7.725
+North Dakota,1880,April,2.096
+North Dakota,1880,October,4.982
+North Dakota,1880,September,12.577
+North Dakota,1880,May,13.879
+North Dakota,1880,June,17.242
+North Dakota,1880,August,18.432
+North Dakota,1880,July,20.085
+North Dakota,1900,February,-15.947
+North Dakota,1900,January,-8.542
+North Dakota,1900,December,-7.667
+North Dakota,1900,November,-6.361
+North Dakota,1900,March,-5.911
+North Dakota,1900,October,8.842
+North Dakota,1900,April,9.332
+North Dakota,1900,September,12.8
+North Dakota,1900,May,15.126
+North Dakota,1900,June,19.386
+North Dakota,1900,July,20.12
+North Dakota,1900,August,21.168
+North Dakota,1920,January,-15.551
+North Dakota,1920,February,-10.249
+North Dakota,1920,December,-9.163
+North Dakota,1920,March,-5.07
+North Dakota,1920,November,-2.313
+North Dakota,1920,April,0.006
+North Dakota,1920,October,9.245
+North Dakota,1920,May,12.134
+North Dakota,1920,September,15.012
+North Dakota,1920,June,16.947
+North Dakota,1920,July,20.457
+North Dakota,1920,August,20.497
+North Dakota,1940,January,-16.234
+North Dakota,1940,February,-9.649
+North Dakota,1940,December,-6.91
+North Dakota,1940,November,-5.668
+North Dakota,1940,March,-4.867
+North Dakota,1940,April,3.09
+North Dakota,1940,October,10.073
+North Dakota,1940,May,12.663
+North Dakota,1940,September,17.102
+North Dakota,1940,June,17.293
+North Dakota,1940,August,19.883
+North Dakota,1940,July,22.177
+North Dakota,1960,January,-13.284
+North Dakota,1960,February,-11.675
+North Dakota,1960,December,-9.997
+North Dakota,1960,March,-8.286
+North Dakota,1960,November,-2.175
+North Dakota,1960,April,4.966
+North Dakota,1960,October,7.775
+North Dakota,1960,May,12.555
+North Dakota,1960,September,15.078
+North Dakota,1960,June,16.472
+North Dakota,1960,August,20.475
+North Dakota,1960,July,22.157
+North Dakota,1980,January,-13.921
+North Dakota,1980,February,-10.64
+North Dakota,1980,December,-9.418
+North Dakota,1980,March,-5.364
+North Dakota,1980,November,0.982
+North Dakota,1980,October,6.108
+North Dakota,1980,April,9.053
+North Dakota,1980,September,13.498
+North Dakota,1980,May,15.641
+North Dakota,1980,August,18.069
+North Dakota,1980,June,18.341
+North Dakota,1980,July,21.717
+North Dakota,2000,December,-16.094
+North Dakota,2000,January,-10.753
+North Dakota,2000,November,-5.496
+North Dakota,2000,February,-5.208
+North Dakota,2000,March,2.063
+North Dakota,2000,April,5.601
+North Dakota,2000,October,8.147
+North Dakota,2000,May,13.397
+North Dakota,2000,September,14.41
+North Dakota,2000,June,16.2
+North Dakota,2000,August,20.749
+North Dakota,2000,July,21.355
+Ohio,1820,January,-5.949
+Ohio,1820,December,-3.326
+Ohio,1820,February,0.619
+Ohio,1820,March,2.743
+Ohio,1820,November,2.823
+Ohio,1820,October,9.489
+Ohio,1820,April,11.069
+Ohio,1820,May,15.212
+Ohio,1820,September,17.672
+Ohio,1820,June,20.74
+Ohio,1820,August,21.159
+Ohio,1820,July,22.925
+Ohio,1840,January,-5.325
+Ohio,1840,December,-2.012
+Ohio,1840,February,2.918
+Ohio,1840,November,4.233
+Ohio,1840,March,6.038
+Ohio,1840,October,10.996
+Ohio,1840,April,12.355
+Ohio,1840,September,16.041
+Ohio,1840,May,17.189
+Ohio,1840,June,21.217
+Ohio,1840,August,22.025
+Ohio,1840,July,22.956
+Ohio,1860,December,-2.97
+Ohio,1860,January,-1.661
+Ohio,1860,February,-0.91
+Ohio,1860,November,3.738
+Ohio,1860,March,5.182
+Ohio,1860,April,9.612
+Ohio,1860,October,11.433
+Ohio,1860,September,16.31
+Ohio,1860,May,17.538
+Ohio,1860,June,20.363
+Ohio,1860,August,21.642
+Ohio,1860,July,22.382
+Ohio,1880,December,-4.606
+Ohio,1880,November,0.043
+Ohio,1880,February,2.026
+Ohio,1880,March,3.459
+Ohio,1880,January,4.835
+Ohio,1880,October,10.205
+Ohio,1880,April,10.74
+Ohio,1880,September,17.412
+Ohio,1880,May,19.241
+Ohio,1880,June,21.508
+Ohio,1880,August,22.217
+Ohio,1880,July,22.573
+Ohio,1900,February,-3.66
+Ohio,1900,January,-0.949
+Ohio,1900,December,-0.746
+Ohio,1900,March,0.386
+Ohio,1900,November,5.068
+Ohio,1900,April,9.707
+Ohio,1900,October,15.325
+Ohio,1900,May,16.927
+Ohio,1900,September,20.429
+Ohio,1900,June,20.88
+Ohio,1900,July,23.154
+Ohio,1900,August,24.359
+Ohio,1920,January,-6.018
+Ohio,1920,February,-3.054
+Ohio,1920,December,0.373
+Ohio,1920,November,4.239
+Ohio,1920,March,4.975
+Ohio,1920,April,7.377
+Ohio,1920,October,14.165
+Ohio,1920,May,14.392
+Ohio,1920,September,18.844
+Ohio,1920,June,20.264
+Ohio,1920,August,21
+Ohio,1920,July,21.06
+Ohio,1940,January,-8.94
+Ohio,1940,February,-1.688
+Ohio,1940,March,1.492
+Ohio,1940,December,2.339
+Ohio,1940,November,4.419
+Ohio,1940,April,7.675
+Ohio,1940,October,11.947
+Ohio,1940,May,14.449
+Ohio,1940,September,16.723
+Ohio,1940,June,21.102
+Ohio,1940,August,22.325
+Ohio,1940,July,22.954
+Ohio,1960,December,-4.138
+Ohio,1960,March,-2.944
+Ohio,1960,February,-1.658
+Ohio,1960,January,-0.315
+Ohio,1960,November,6.3
+Ohio,1960,October,12.005
+Ohio,1960,April,12.275
+Ohio,1960,May,14.815
+Ohio,1960,September,19.875
+Ohio,1960,June,20.179
+Ohio,1960,July,21.573
+Ohio,1960,August,22.862
+Ohio,1980,February,-4.345
+Ohio,1980,January,-2.168
+Ohio,1980,December,-0.948
+Ohio,1980,March,2.15
+Ohio,1980,November,4.223
+Ohio,1980,April,9.29
+Ohio,1980,October,9.839
+Ohio,1980,May,16.479
+Ohio,1980,June,19.456
+Ohio,1980,September,19.503
+Ohio,1980,July,23.794
+Ohio,1980,August,24.03
+Ohio,2000,December,-5.53
+Ohio,2000,January,-2.96
+Ohio,2000,February,2.253
+Ohio,2000,November,4.812
+Ohio,2000,March,7.434
+Ohio,2000,April,10.05
+Ohio,2000,October,13.497
+Ohio,2000,May,17.801
+Ohio,2000,September,17.984
+Ohio,2000,August,21.67
+Ohio,2000,June,21.68
+Ohio,2000,July,21.813
+South Dakota,1820,January,-13.608
+South Dakota,1820,December,-10
+South Dakota,1820,February,-7.022
+South Dakota,1820,March,-2.872
+South Dakota,1820,November,-1.413
+South Dakota,1820,October,7.138
+South Dakota,1820,April,8.138
+South Dakota,1820,May,12.978
+South Dakota,1820,September,15.1
+South Dakota,1820,August,18.979
+South Dakota,1820,June,18.991
+South Dakota,1820,July,20.062
+South Dakota,1840,January,-8.745
+South Dakota,1840,February,-6.922
+South Dakota,1840,December,-6.123
+South Dakota,1840,November,-1.26
+South Dakota,1840,March,-0.724
+South Dakota,1840,October,5.689
+South Dakota,1840,April,6.299
+South Dakota,1840,May,14.119
+South Dakota,1840,September,14.191
+South Dakota,1840,June,19.471
+South Dakota,1840,August,19.63
+South Dakota,1840,July,22.427
+South Dakota,1860,January,-8.884
+South Dakota,1860,December,-7.476
+South Dakota,1860,February,-6.546
+South Dakota,1860,November,-1.041
+South Dakota,1860,March,1.994
+South Dakota,1860,April,6.39
+South Dakota,1860,October,8.342
+South Dakota,1860,May,13.799
+South Dakota,1860,September,14.522
+South Dakota,1860,June,18.927
+South Dakota,1860,August,20.342
+South Dakota,1860,July,22.078
+South Dakota,1880,December,-12.259
+South Dakota,1880,November,-6.476
+South Dakota,1880,February,-6.134
+South Dakota,1880,January,-5.229
+South Dakota,1880,March,-3.232
+South Dakota,1880,April,5.372
+South Dakota,1880,October,6.692
+South Dakota,1880,September,14.933
+South Dakota,1880,May,15.996
+South Dakota,1880,June,19.112
+South Dakota,1880,August,21.057
+South Dakota,1880,July,22.102
+South Dakota,1900,February,-10.152
+South Dakota,1900,January,-4.261
+South Dakota,1900,December,-3.17
+South Dakota,1900,November,-1.908
+South Dakota,1900,March,-1.564
+South Dakota,1900,April,9.822
+South Dakota,1900,October,11.144
+South Dakota,1900,September,15.387
+South Dakota,1900,May,16.414
+South Dakota,1900,June,20.803
+South Dakota,1900,July,22.025
+South Dakota,1900,August,23.692
+South Dakota,1920,January,-8.203
+South Dakota,1920,December,-5.525
+South Dakota,1920,February,-5.331
+South Dakota,1920,March,-1.009
+South Dakota,1920,November,-0.771
+South Dakota,1920,April,2.149
+South Dakota,1920,October,11.066
+South Dakota,1920,May,12.915
+South Dakota,1920,September,16.716
+South Dakota,1920,June,18.148
+South Dakota,1920,August,20.606
+South Dakota,1920,July,21.692
+South Dakota,1940,January,-13.852
+South Dakota,1940,February,-6.26
+South Dakota,1940,December,-3.443
+South Dakota,1940,November,-2.515
+South Dakota,1940,March,-1.395
+South Dakota,1940,April,5.607
+South Dakota,1940,October,12.237
+South Dakota,1940,May,13.761
+South Dakota,1940,September,19.04
+South Dakota,1940,June,19.59
+South Dakota,1940,August,21.372
+South Dakota,1940,July,24.809
+South Dakota,1960,February,-9.14
+South Dakota,1960,January,-8.624
+South Dakota,1960,December,-6.634
+South Dakota,1960,March,-5.815
+South Dakota,1960,November,1.326
+South Dakota,1960,April,7.52
+South Dakota,1960,October,9.889
+South Dakota,1960,May,13.569
+South Dakota,1960,September,16.841
+South Dakota,1960,June,18.052
+South Dakota,1960,August,22.213
+South Dakota,1960,July,23.636
+South Dakota,1980,January,-8.652
+South Dakota,1980,February,-6.262
+South Dakota,1980,December,-4.46
+South Dakota,1980,March,-1.478
+South Dakota,1980,November,3.281
+South Dakota,1980,October,8.419
+South Dakota,1980,April,9.465
+South Dakota,1980,May,15.482
+South Dakota,1980,September,16.666
+South Dakota,1980,June,20.478
+South Dakota,1980,August,21.477
+South Dakota,1980,July,24.272
+South Dakota,2000,December,-11.564
+South Dakota,2000,January,-5.902
+South Dakota,2000,November,-3.686
+South Dakota,2000,February,-1.024
+South Dakota,2000,March,4.226
+South Dakota,2000,April,7.485
+South Dakota,2000,October,10.303
+South Dakota,2000,May,14.98
+South Dakota,2000,September,17.227
+South Dakota,2000,June,18.427
+South Dakota,2000,July,23.273
+South Dakota,2000,August,23.409
+Wisconsin,1820,January,-14.739
+Wisconsin,1820,December,-10.75
+Wisconsin,1820,February,-7.018
+Wisconsin,1820,March,-4.16
+Wisconsin,1820,November,-1.539
+Wisconsin,1820,October,6.804
+Wisconsin,1820,April,7.379
+Wisconsin,1820,May,11.875
+Wisconsin,1820,September,14.205
+Wisconsin,1820,August,17.403
+Wisconsin,1820,June,18.055
+Wisconsin,1820,July,18.829
+Wisconsin,1840,January,-10.903
+Wisconsin,1840,December,-6.986
+Wisconsin,1840,February,-5.836
+Wisconsin,1840,March,-0.651
+Wisconsin,1840,November,-0.5
+Wisconsin,1840,October,5.814
+Wisconsin,1840,April,6.645
+Wisconsin,1840,September,12.675
+Wisconsin,1840,May,14.595
+Wisconsin,1840,August,17.993
+Wisconsin,1840,June,18.847
+Wisconsin,1840,July,20.373
+Wisconsin,1860,January,-9.132
+Wisconsin,1860,December,-9.03
+Wisconsin,1860,February,-7.492
+Wisconsin,1860,November,-1.212
+Wisconsin,1860,March,1.234
+Wisconsin,1860,April,5.093
+Wisconsin,1860,October,7.341
+Wisconsin,1860,September,12.225
+Wisconsin,1860,May,13.784
+Wisconsin,1860,August,17.308
+Wisconsin,1860,June,17.521
+Wisconsin,1860,July,19.273
+Wisconsin,1880,December,-10.689
+Wisconsin,1880,February,-6.472
+Wisconsin,1880,November,-5.46
+Wisconsin,1880,January,-3.504
+Wisconsin,1880,March,-2.887
+Wisconsin,1880,April,5.42
+Wisconsin,1880,October,6.636
+Wisconsin,1880,September,13.945
+Wisconsin,1880,May,15.772
+Wisconsin,1880,June,18.843
+Wisconsin,1880,August,19.414
+Wisconsin,1880,July,20.294
+Wisconsin,1900,February,-12.611
+Wisconsin,1900,January,-6.418
+Wisconsin,1900,December,-5.756
+Wisconsin,1900,March,-5.046
+Wisconsin,1900,November,-1.733
+Wisconsin,1900,April,8.102
+Wisconsin,1900,October,12.86
+Wisconsin,1900,May,14.099
+Wisconsin,1900,September,15.554
+Wisconsin,1900,June,18.016
+Wisconsin,1900,July,19.608
+Wisconsin,1900,August,22.815
+Wisconsin,1920,January,-13.824
+Wisconsin,1920,February,-9.248
+Wisconsin,1920,December,-4.757
+Wisconsin,1920,March,-0.973
+Wisconsin,1920,November,-0.022
+Wisconsin,1920,April,2.753
+Wisconsin,1920,May,12.138
+Wisconsin,1920,October,12.262
+Wisconsin,1920,September,16.78
+Wisconsin,1920,June,18.536
+Wisconsin,1920,August,18.548
+Wisconsin,1920,July,19.04
+Wisconsin,1940,January,-12.713
+Wisconsin,1940,February,-6.298
+Wisconsin,1940,December,-5.274
+Wisconsin,1940,March,-4.743
+Wisconsin,1940,November,-0.836
+Wisconsin,1940,April,4.546
+Wisconsin,1940,October,10.059
+Wisconsin,1940,May,11.139
+Wisconsin,1940,September,15.996
+Wisconsin,1940,June,17.85
+Wisconsin,1940,August,19.036
+Wisconsin,1940,July,21.307
+Wisconsin,1960,December,-7.561
+Wisconsin,1960,January,-7.523
+Wisconsin,1960,February,-7.063
+Wisconsin,1960,March,-6.805
+Wisconsin,1960,November,2.408
+Wisconsin,1960,April,7.185
+Wisconsin,1960,October,8.857
+Wisconsin,1960,May,12.315
+Wisconsin,1960,September,16.101
+Wisconsin,1960,June,16.648
+Wisconsin,1960,July,19.775
+Wisconsin,1960,August,20.432
+Wisconsin,1980,January,-9.295
+Wisconsin,1980,February,-9.17
+Wisconsin,1980,December,-7.064
+Wisconsin,1980,March,-3.332
+Wisconsin,1980,November,1.638
+Wisconsin,1980,October,6.282
+Wisconsin,1980,April,7.375
+Wisconsin,1980,May,14.706
+Wisconsin,1980,September,14.813
+Wisconsin,1980,June,17.678
+Wisconsin,1980,August,20.295
+Wisconsin,1980,July,21.642
+Wisconsin,2000,December,-12.343
+Wisconsin,2000,January,-8.945
+Wisconsin,2000,February,-3.355
+Wisconsin,2000,November,0.769
+Wisconsin,2000,March,3.817
+Wisconsin,2000,April,6.315
+Wisconsin,2000,October,10.682
+Wisconsin,2000,May,14.486
+Wisconsin,2000,September,15.05
+Wisconsin,2000,June,17.485
+Wisconsin,2000,July,20.132
+Wisconsin,2000,August,20.191
